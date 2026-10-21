@@ -1,0 +1,6 @@
+# Check fallback when the secondary store is empty
+GT4500,2,0.0,0,0.0
+TORPEDO,SINGLE  # primary succeeds
+TORPEDO,SINGLE  # secondary empty, primary fires again
+TORPEDO,SINGLE  # both stores empty
+EXIT

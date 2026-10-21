@@ -1,0 +1,6 @@
+# Check repeated firing when the primary store is empty
+GT4500,0,0.0,2,0.0
+TORPEDO,SINGLE  # primary empty, secondary succeeds
+TORPEDO,SINGLE  # primary empty, secondary fires again
+TORPEDO,SINGLE  # both stores empty
+EXIT

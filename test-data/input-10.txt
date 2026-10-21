@@ -1,0 +1,5 @@
+# Check ALL mode with an empty primary store
+GT4500,0,0.0,1,0.0
+TORPEDO,ALL  # secondary succeeds
+TORPEDO,ALL  # both stores empty
+EXIT
