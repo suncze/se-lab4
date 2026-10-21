@@ -1,0 +1,4 @@
+# Check that failure does not trigger another attempt
+GT4500,1,1.0,1,0.0
+TORPEDO,SINGLE  # primary fails, secondary not attempted
+EXIT

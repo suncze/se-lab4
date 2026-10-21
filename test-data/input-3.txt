@@ -1,0 +1,6 @@
+# Check alternating firing between stores
+GT4500,2,0.0,2,1.0
+TORPEDO,SINGLE  # primary store succeeds
+TORPEDO,SINGLE  # secondary store fails
+TORPEDO,SINGLE  # primary store succeeds again
+EXIT

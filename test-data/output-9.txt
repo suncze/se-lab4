@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- secondary store
+SUCCESS  # <- secondary store again
+FAIL     # <- both stores empty

@@ -1,0 +1,4 @@
+# Check that the primary store is fired first
+GT4500,1,1.0,1,0.0
+TORPEDO,SINGLE # primary store always fails
+EXIT
