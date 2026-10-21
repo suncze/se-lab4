@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- both stores fired
+FAIL     # <- no torpedoes remaining

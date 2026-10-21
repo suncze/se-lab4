@@ -1,0 +1,4 @@
+# Check success when only one store fires
+GT4500,1,1.0,1,0.0
+TORPEDO,ALL  # primary fails, secondary succeeds
+EXIT

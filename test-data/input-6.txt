@@ -1,0 +1,5 @@
+# Check that ALL fires both torpedo stores
+GT4500,1,0.0,1,0.0
+TORPEDO,ALL  # both stores should fire
+TORPEDO,ALL  # both stores should be empty
+EXIT

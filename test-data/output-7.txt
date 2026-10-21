@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- at least one store succeeded

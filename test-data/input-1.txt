@@ -1,0 +1,6 @@
+# Check that SINGLE fires only one torpedo at a time
+GT4500,1,0.0,1,0.0 
+TORPEDO,SINGLE  # first torpedo fired
+TORPEDO,SINGLE  # second
+TORPEDO,SINGLE  # both stores should be empty
+EXIT
